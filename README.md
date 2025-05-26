@@ -53,6 +53,8 @@ I'm a passionate developer with a knack for building efficient systems, real-wor
 
 - 🌐 [Personal Website](https://azarcode.com)
 - 📸 [Instagram](https://instagram.com/mehd_jahani)
+- 💬 [Telegram](https://t.me/mehd_jahani)
+- 📱 [WhatsApp](https://wa.me/989358889813)
 
 ---
 
