@@ -15,7 +15,7 @@ I'm a passionate developer with a knack for building efficient systems, real-wor
 - 🌱 Currently working on: Automation, web bots, and online services
 - 💬 Ask me about: C++, Python, PHP, automation, and AI-driven projects
 - 📸 Instagram: [@mehd_jahani](https://instagram.com/mehd_jahani)
-- 💬 Telegram: [@mhd_jahani](https://t.me/mhd_jahani)
+- 💬 Telegram: [@mehd_jahani](https://t.me/mehd_jahani)
 - 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/989358889813)
 
 ---
