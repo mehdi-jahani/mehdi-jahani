@@ -1,9 +1,7 @@
 <!-- README Profile for Mehdi Jahani -->
 
 <h1 align="center">Hi 👋, I'm Mehdi Jahani</h1>
-<p align="center">
-  <b>Professional Software Developer 🧑‍💻 | System Architect 🏗 | Problem Solver 🧠</b>
-</p>
+<h3 align="center">Professional Software Developer 🧑‍💻 | System Architect 🏗 | AI Explorer 🤖</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehdi-jahani&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-jahani" />
@@ -21,22 +19,27 @@
 
 ## 🚀 About Me
 
-- 🌍 Based in: [AzarCode.com](https://azarcode.com)  
-- 🔧 Currently working on: Automation, Web Bots, Online Services  
-- 💬 Ask me about: C++, Python, PHP, Automation, AI-Driven Projects  
-- 📸 Instagram: [@mehd_jahani](https://instagram.com/mehd_jahani)  
-- 💬 Telegram: [@mehd_jahani](https://t.me/mehd_jahani)  
-- 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/989358889813)  
+- 🌍 I'm based in [AzarCode.com](https://azarcode.com)  
+- 🔧 I specialize in **Automation**, **Web Bots**, and **Online Services**  
+- 💬 Ask me about:  
+  `C++`, `Python`, `PHP`, `AI-driven Tools`, `Scraping`, `System Design`  
+- 🌱 I'm passionate about:  
+  Open-source, AI/ML, and building products that solve real-world problems  
+- 🔭 Currently working on projects that automate everything I’m tired of doing manually 😄
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/mehd_jahani"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/mehd_jahani"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/989358889813"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Engineer+%7C+Automation+Enthusiast;System+Architect+%7C+AI+Explorer;Problem+Solver+%7C+Tech+Lover" />
 </p>
 
 ---
