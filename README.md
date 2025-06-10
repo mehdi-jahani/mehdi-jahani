@@ -32,8 +32,6 @@ I'm a passionate **Software Developer** and **System Architect** who thrives on 
 - 🌱 **Passions:** Open-source, AI/ML, and simplifying real-world complexities  
 - 🔭 **Current Focus:** Automating repetitive tasks — because I’d rather code than click 😄
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Engineer+%7C+Automation+Enthusiast;System+Architect+%7C+AI+Explorer;Problem+Solver+%7C+Tech+Lover" />
 </p>
@@ -82,10 +80,14 @@ I'm a passionate **Software Developer** and **System Architect** who thrives on 
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 Yearly Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehdi-jahani&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mehdi-jahani streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mehdi-jahani's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-jahani&theme=github-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -102,18 +104,6 @@ I'm a passionate **Software Developer** and **System Architect** who thrives on 
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Yearly Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mehdi-jahani's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-jahani&theme=radical&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 
