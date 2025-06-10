@@ -11,7 +11,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehdi-jahani&theme=gruvbox&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## 🚀 About Me
 
 - 🌍 Based in: [AzarCode.com](https://azarcode.com)  
 - 🔧 Currently working on: Automation, Web Bots, Online Services  
@@ -41,39 +49,56 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Technologies
+### 🧠 Machine Learning / AI
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+### 🧰 Frameworks & Tools
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-
-### 🧠 Concepts & Tech
-
-![REST](https://img.shields.io/badge/REST-FF6F61?logo=fastapi&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-3E8EDE?logo=python&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?logo=githubactions&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF9900?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=mehdi-jahani&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mehdi-jahani streak" />
 </p>
 
 ---
 
-## 🧠 Personal Values
+## 📈 GitHub Stats
 
-- 💡 **Efficiency:** Crafting smart and optimized solutions.
-- 🎨 **Creativity:** Writing code as an art form.
-- 📚 **Continuous Learning:** Exploring new ideas every day.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 💎 Personal Values
+
+- ⚙️ **Efficiency:** I build scalable, smart, and elegant systems.
+- 🧠 **Creativity:** Code is my canvas and logic is my brush.
+- 📚 **Lifelong Learning:** Always learning and experimenting.
 
 ---
 
