@@ -17,29 +17,32 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me & Core Values
 
-- 🌍 I'm based in [AzarCode.com](https://azarcode.com)  
-- 🔧 I specialize in **Automation**, **Web Bots**, and **Online Services**  
-- 💬 Ask me about:  
-  `C++`, `Python`, `PHP`, `AI-driven Tools`, `Scraping`, `System Design`  
-- 🌱 I'm passionate about:  
-  Open-source, AI/ML, and building products that solve real-world problems  
-- 🔭 Currently working on projects that automate everything I’m tired of doing manually 😄
+I'm a passionate **Software Developer** and **System Architect** who thrives on building intelligent, scalable, and elegant digital solutions.
+
+- 🌍 **Based in:** [AzarCode.com](https://azarcode.com)  
+- 🔧 **Specialized in:** Automation • Web Bots • Online Services  
+- 💬 **Ask Me About:**  
+  `C++` • `Python` • `PHP` • `AI-driven Tools` • `Scraping` • `System Design`  
+- 🧠 **Driven By:**  
+  - ⚙️ **Efficiency:** I build systems that are scalable, smart, and elegant  
+  - 🧠 **Creativity:** Code is my canvas and logic is my brush  
+  - 📚 **Lifelong Learning:** Constantly learning, experimenting, and evolving  
+- 🌱 **Passions:** Open-source, AI/ML, and simplifying real-world complexities  
+- 🔭 **Current Focus:** Automating repetitive tasks — because I’d rather code than click 😄
 
 ---
 
-## 🌐 Connect with Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Engineer+%7C+Automation+Enthusiast;System+Architect+%7C+AI+Explorer;Problem+Solver+%7C+Tech+Lover" />
+</p>
 
 <p align="center">
   <a href="https://instagram.com/mehd_jahani"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/mehd_jahani"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/989358889813"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Engineer+%7C+Automation+Enthusiast;System+Architect+%7C+AI+Explorer;Problem+Solver+%7C+Tech+Lover" />
 </p>
 
 ---
@@ -89,19 +92,28 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💎 Personal Values
+## 📊 Yearly Contribution Activity
 
-- ⚙️ **Efficiency:** I build scalable, smart, and elegant systems.
-- 🧠 **Creativity:** Code is my canvas and logic is my brush.
-- 📚 **Lifelong Learning:** Always learning and experimenting.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mehdi-jahani's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-jahani&theme=radical&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
