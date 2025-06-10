@@ -35,7 +35,6 @@ I'm a passionate **Software Developer** and **System Architect** who thrives on 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Engineer+%7C+Automation+Enthusiast;System+Architect+%7C+AI+Explorer;Problem+Solver+%7C+Tech+Lover" />
 </p>
-
 <p align="center">
   <a href="https://instagram.com/mehd_jahani"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/mehd_jahani"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
@@ -94,16 +93,10 @@ I'm a passionate **Software Developer** and **System Architect** who thrives on 
 
 ## 📈 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</p>
 
 ---
 
