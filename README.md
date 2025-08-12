@@ -95,13 +95,5 @@ I am a dedicated software developer and system architect who enjoys crafting sma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=buefy" alt="Top Languages" width="32.5%"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/Hg8YF9S.png" alt="Quote Icon" width="40" />
-</p>
-<h3 align="center">
-  <em>“The best way to predict the future is to invent it.”</em>
-</h3>
 
 
