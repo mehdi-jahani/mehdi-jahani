@@ -83,7 +83,7 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 ## Yearly Contribution
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -91,9 +91,10 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=blue-green" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=blue-green" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=gotham" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=gotham" alt="Top Languages" width="42%"/>
 </p>
+
 
 ---
 
