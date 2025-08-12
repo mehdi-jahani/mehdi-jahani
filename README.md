@@ -20,7 +20,7 @@
 <!-- Welcome Section -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Welcome Animation" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
 
 <h1 align="center">Welcome to My Profile!</h1>
