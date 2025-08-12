@@ -91,8 +91,8 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=react" alt="Top Languages" width="42%"/>
 </p>
 
 ---
