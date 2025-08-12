@@ -92,11 +92,12 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=buefy" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=buefy" alt="Top Languages" width="32.5%"/>
 </p>
 
 ---
 
 <p align="center">
-  <em>“The best way to predict the future is to invent it.”</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=💡+Quote+of+the+Day;“The+best+way+to+predict+the+future+is+to+invent+it.”" alt="Typing SVG" />
 </p>
+
