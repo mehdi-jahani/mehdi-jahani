@@ -98,6 +98,10 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=💡+Quote+of+the+Day;“The+best+way+to+predict+the+future+is+to+invent+it.”" alt="Typing SVG" />
+  <img src="https://i.imgur.com/Hg8YF9S.png" alt="Quote Icon" width="40" />
 </p>
+<h3 align="center">
+  <em>“The best way to predict the future is to invent it.”</em>
+</h3>
+
 
