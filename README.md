@@ -82,17 +82,18 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 
 ## Yearly Contribution
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<p align="center" style="background:#ffffff; padding:10px; border-radius:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=gotham" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=gotham" alt="Top Languages" width="42%"/>
+<p align="center" style="background:#ffffff; padding:15px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,255,0.15);">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats" width="47%" style="border-radius: 12px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" width="42%" style="border-radius: 12px;"/>
 </p>
 
 
