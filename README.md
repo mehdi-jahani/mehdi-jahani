@@ -17,19 +17,6 @@
 
 ---
 
-<!-- Welcome Section -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Coding Animation" width="300"/>
-</p>
-
-<h1 align="center">Welcome to My Profile!</h1>
-<p align="center" style="font-size:18px; max-width:600px; margin:auto;">
-  Thanks for stopping by. I’m Mehdi Jahani — a software developer who loves crafting smart and elegant solutions.  
-  Feel free to explore my work, connect, and share ideas.  
-  Let’s build something amazing together.
-</p>
-
 ## About Me & What Drives Me
 
 I am a dedicated software developer and system architect who enjoys crafting smart, scalable, and clean solutions that solve real problems.
@@ -104,7 +91,7 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=donut" alt="GitHub Stats" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=radical" alt="Top Languages" width="42%"/>
 </p>
 
