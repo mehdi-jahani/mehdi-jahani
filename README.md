@@ -83,7 +83,7 @@ I am a dedicated software developer and system architect who enjoys crafting sma
 ## Yearly Contribution
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-jahani&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
