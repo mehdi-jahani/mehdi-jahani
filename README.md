@@ -9,14 +9,6 @@
 
 ---
 
-## Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehdi-jahani&theme=gruvbox&margin-w=10&no-frame=true" />
-</p>
-
----
-
 ## About Me & What Drives Me
 
 I am a dedicated software developer and system architect who enjoys crafting smart, scalable, and clean solutions that solve real problems.
