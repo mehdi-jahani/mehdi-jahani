@@ -49,7 +49,6 @@
 
 I am a dedicated software developer and system architect who enjoys crafting smart, scalable, and clean solutions that solve real problems.
 
-- Based in: [AzarCode.com](https://azarcode.com)  
 - Areas of expertise: Automation, Web Bots, Online Services  
 - Feel free to ask me about:  
   `C++`, `Python`, `PHP`, `AI-powered Tools`, `Web Scraping`, `System Design`  
