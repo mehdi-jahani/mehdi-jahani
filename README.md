@@ -1,83 +1,96 @@
-<!-- README Profile for Mehdi Jahani -->
+# 👋 Hi, I'm Mehdi Jahani
 
-<h1 align="center">Hello, I'm Mehdi Jahani</h1>
+### Senior Data Engineer & Software Engineer  
+**Cloud & Big Data Architect** · **Backend & Distributed Systems**
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="60" alt="woocommerce logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-</div>
-
-###
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehdi-jahani&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-jahani" />
-</p>
+[![Website](https://img.shields.io/badge/Portfolio-mehdi--jahani.github.io-0d9488?style=flat&logo=link)](https://mehdi-jahani.github.io)
+[![Email](https://img.shields.io/badge/Email-mehdi.jahani.zengir%40gmail.com-ea580c?style=flat&logo=gmail)](mailto:mehdi.jahani.zengir@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Ardabil%2C%20Iran-2563eb?style=flat&logo=location)]()
 
 ---
 
-## About Me & What Drives Me
+## 🚀 Who I Am
 
-I am a dedicated software developer and system architect who enjoys crafting smart, scalable, and clean solutions that solve real problems.
+I'm a **Senior Engineer** with **6+ years** of international experience building scalable, cloud-native systems—from **data lakehouses** to **high-performance backends**. I've worked with startups and enterprises in **Dubai, Qatar, and Iran**, in remote, hybrid, and on-site setups, and I thrive in cross-functional, distributed teams.
 
-- Areas of expertise: Automation, Web Bots, Online Services  
-- Feel free to ask me about:  
-  `C++`, `Python`, `PHP`, `AI-powered Tools`, `Web Scraping`, `System Design`  
-- What motivates me:  
-  - Building efficient and maintainable systems  
-  - Combining creativity with logical thinking  
-  - Continuous learning and adapting to new technologies  
-- Passionate about: Open source, AI and machine learning, simplifying complex challenges  
-- Currently focused on: Automating repetitive tasks to save time and effort  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Engineer+|+Automation+Enthusiast;System+Architect+|+AI+Explorer;Problem+Solver+|+Tech+Lover" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/mehd_jahani"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/mehd_jahani"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/989358889813"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
-</p>
+I combine **data engineering** and **software engineering**: I design data architectures that power analytics and AI, and I build the backend services that serve them. Whether it's reducing data latency by **40%**, cutting query time by **50%**, or processing **millions of records** in real time, I focus on **impact**, **reliability**, and **clean architecture**.
 
 ---
 
-## GitHub Stats
+## 💼 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-jahani&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jahani&layout=compact&theme=buefy" alt="Top Languages" width="32.5%"/>
-</p>
+| **Data Engineering** | **Software Engineering** |
+|----------------------|---------------------------|
+| Data Lakehouses (Azure, AWS) | RESTful APIs & Microservices |
+| ETL/ELT & Real-Time Streaming (Kafka, Spark) | Event-Driven & Distributed Systems |
+| MLOps & AI/ML Pipelines | Python, Go, SQL |
+| Data Governance & GDPR-Compliant Pipelines | Docker, Kubernetes, Terraform |
+| dbt, Airflow, Databricks, Snowflake | CI/CD & Cloud Infrastructure |
 
+---
 
+## 🛠 Tech Stack
 
+**Cloud & Data**  
+`Azure` `AWS` `Databricks` `Snowflake` `Delta Lake` `Apache Spark` `PySpark` `Kafka`
 
+**Backend & Infra**  
+`Python` `Go` `SQL` `REST APIs` `Docker` `Kubernetes` `Terraform` `Apache Airflow` `dbt`
+
+**Databases & Messaging**  
+`PostgreSQL` `SQL Server` `Redis` `Snowflake`
+
+---
+
+## 📈 Impact Highlights
+
+- **Architected** a scalable Data Lakehouse for e-commerce, enabling a full **Customer 360** view and **99.9%** availability for critical reporting.
+- **Reduced** real-time data latency by **40%** and average query execution time by **50%** through optimization and streaming pipelines.
+- **Built** MLOps pipelines and integrated AI/ML models into production backend services for an AI startup in Dubai.
+- **Delivered** compliant healthcare data systems (GDPR/HIPAA principles) and **saved 20+ hours/week** via automation.
+- **Mentored** junior engineers and established **CI/CD** and code review best practices.
+
+---
+
+## 🌍 Experience at a Glance
+
+| Role | Company | Focus |
+|------|---------|--------|
+| **Senior Data Engineer** | Shavaz (E-commerce) | Data Lakehouse, PySpark, Delta Lake, Kafka, Power BI |
+| **Senior Software Engineer** | Shavaz | Distributed backend, REST APIs, event-driven pipelines |
+| **Data / Software Engineer** | Vortem-AI (Dubai) | MLOps, microservices, Snowflake, AI integration |
+| **Data / Software Engineer** | HealthMaker (Qatar, Remote) | Healthcare data, compliance, automation |
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Sc. Computer Science** — University of Technology  
+- **Databricks Certified Data Engineer Professional**  
+- **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
+- **AWS Certified Cloud Practitioner**
+
+---
+
+## 🌐 Languages
+
+**Persian** · **Turkish** — Native  
+**English** — Full professional proficiency (C1)
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to:
+
+- **Full-time** and **contract** opportunities in **Data Engineering** or **Software Engineering**
+- **Remote** and **hybrid** roles with international teams
+- **Architecture reviews**, **technical consulting**, and **mentorship**
+
+Reach out for collaboration, project discussions, or just a technical chat.
+
+[**📧 Email**](mailto:mehdi.jahani.zengir@gmail.com) · [**🌐 Portfolio**](https://mehdi-jahani.github.io)
+
+---
+
+*Building systems that scale. Turning data into decisions.*
